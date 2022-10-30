@@ -1,0 +1,11 @@
+{
+    "log": {
+        "loggingLevel": "log",
+        "timeFormat": "D.M.YYYY. H:mm:ss.SSS",
+        "locale": "en-IN"
+    },
+    "botOwner": "565197034034954251",
+    "cacheInterval": 12,
+    "presenceInterval": 30,
+    "spamThreshold": 15
+}
